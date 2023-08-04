@@ -32,10 +32,15 @@ The server should start running
 Create Elastic Beanstalk Environment
 
 1.Open AWS Management Console and navigate to Elastic Beanstalk service.
+
 2.Click "Create Environment" and choose "Web server environment."
+
 3.Select "Python" as the platform and upload your application code (zipped).
+
 4.click on create.
+
 5.click on Environments and select Weather-env-1,clcik upload and deploy,wait for few minutes to create instance.
+
 6.click on the domain address to open web application.
 
 http://weatherapp-env-1.eba-rwkevnrv.ap-south-1.elasticbeanstalk.com/
