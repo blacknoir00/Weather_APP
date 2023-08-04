@@ -27,7 +27,7 @@ python application.py
 The server should start running
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-# Deploy the application to a cloud-based platform (Amazon Web Service).
+# Deployed the application to a cloud-based platform (Amazon Web Service).
 
 Create Elastic Beanstalk Environment
 
